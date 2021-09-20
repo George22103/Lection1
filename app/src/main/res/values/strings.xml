@@ -1,6 +1,0 @@
-<resources>
-    <string name="app_name">Lession1</string>
-
-    <string name="button_text">Нажми меня!</string>
-    <string name="button_text_land">Не нажимай!</string>
-</resources>
